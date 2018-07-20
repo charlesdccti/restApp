@@ -54,7 +54,7 @@ Whorray you have a spring boot application running with Docker!
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Docker](https://www.docker.com/get-docker)
-
+* [Spring Boot](https://spring.io/guides/gs/spring-boot/)
 ## Contributing
 
 Just fork, clone, crunch the code, commit, push and pull request :P 
@@ -72,6 +72,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * My Mom and Dad
-* Springboot.io
+* Spring.io
+* Java
+* Maven
 * Docker
 * and others
