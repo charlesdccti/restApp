@@ -1,4 +1,4 @@
-# ReastApp
+# RestApp
 
 This is just a template repo for Dockerizing a Marven Springboot Application.
 
