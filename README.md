@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software
 
-Need to know Java SE and what Marven project is and some Springboot
+Need to know Java SE and what a Maven project is and some Springboot
 
 - [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Docker](https://www.docker.com/get-docker)
